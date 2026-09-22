@@ -15,3 +15,13 @@ Salin `skills/productivity/perangkat-pembelajaran-tei` ke direktori skills Herme
 - Kunci Jawaban terpisah
 - Ilustrasi komponen dan rangkaian
 - Validasi DOCX, PDF, media, dan ZIP
+
+## Isi skill
+
+- Generator: `skills/productivity/perangkat-pembelajaran-tei/scripts/generate_perangkat.py`
+- Library layout: `scripts/vendor/lib_cv.py`
+- Workflow: `references/workflow-scripts.md`
+- Inventaris audit: `references/inventory.md`
+- Referensi kurikulum DTEI Fase E dan TEI Fase F: `references/kurikulum/`
+
+Generator adalah salinan proyek referensi; tinjau `OUT`, identitas, CP/TP, tanggal, dan materi sebelum digunakan ulang.
