@@ -23,5 +23,6 @@ Salin `skills/productivity/perangkat-pembelajaran-tei` ke direktori skills Herme
 - Workflow: `references/workflow-scripts.md`
 - Inventaris audit: `references/inventory.md`
 - Referensi kurikulum DTEI Fase E dan TEI Fase F: `references/kurikulum/`
+- Arsip PDF ATP sumber: `references/kurikulum/source-pdfs/` dengan indeks checksum di `SOURCE-PDFS.md`.
 
 Generator adalah salinan proyek referensi; tinjau `OUT`, identitas, CP/TP, tanggal, dan materi sebelum digunakan ulang.
