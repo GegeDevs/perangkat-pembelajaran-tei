@@ -46,6 +46,13 @@ Gunakan struktur bab berikut agar materi tidak bercampur:
 
 Gunakan Bahasa Indonesia, A4, Arial bila tersedia atau Liberation Sans sebagai fallback kompatibel. Untuk dokumen sekolah user ini, gunakan identitas guru/sekolah dari permintaan aktif dan jangan mengarang data.
 
+## Referensi Skrip
+
+- `scripts/generate_perangkat.py` — generator aktual untuk media PNG dan lima dokumen.
+- `references/workflow-scripts.md` — cara menjalankan generator, konversi PDF, validasi DOCX, pemeriksaan media tertanam, pembuatan ZIP, dan pengiriman file.
+
+Baca referensi skrip sebelum memakai ulang generator. Tinjau konstanta `OUT`, identitas guru/sekolah, CP/TP, tanggal, dan materi; generator proyek lama tidak boleh dipakai tanpa penyesuaian.
+
 ## Prosedur
 
 1. **Kumpulkan spesifikasi**: sekolah, guru, kelas/fase, mapel, tanggal, durasi, materi, CP/TP, model, dan format keluaran. Jika referensi ATP tersedia, baca dan kutip elemen/TP yang sesuai.
